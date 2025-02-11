@@ -1,7 +1,7 @@
 # Algoritmos-sintaxe-kotlin
 <h1 align="center">Algoritmos-sintaxe-kotlin</h1>
 <h3 align="center">
-<a href="https://www.youtube.com/playlist?list=PLWNaqtzH6CWRUd0iIEJotRrpwtXXnFROE" target="_blank">Algoritmos-sintaxe-kotlin</a>
+<div>Algoritmos-sintaxe-kotlin</div>
 </h3>
 
 
