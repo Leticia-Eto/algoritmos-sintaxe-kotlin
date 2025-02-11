@@ -20,7 +20,7 @@
 </h2>
 
 <h2 id=objective>:scroll: Objetivo</h2>
-Aprender a linguagem Kotlin<br>
+Aprender e utilizar a linguagem Kotlin<br>
 
 <h2 id=installation>:clipboard: Instalação</h2>
 
