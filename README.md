@@ -29,7 +29,7 @@ Aprender a linguagem Kotlin<br>
 
 <h2 id=technology>:toolbox: Tecnologia</h2>
 
-As ferramentas utilizadas para a contrução do projeto forão:
+As ferramentas utilizadas para a contrução do projeto foram:
 
 - Site: <a href="https://www.jdoodle.com/compile-kotlin-online">jdoodle</a>
 - IDE: <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio</a>
