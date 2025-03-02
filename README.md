@@ -39,4 +39,4 @@ As ferramentas utilizadas para a contrução do projeto foram:
 Developed by <a href="www.linkedin.com/in/leticia-eto-filo-candido-a05068304" target="_blank">Leticia Eto</a>
 
 <h2 id=licence>:lock: Licença</h2>
-<a href="https://github.com/Leticia-Eto/csharp-unit-test-programada-mente/blob/main/LICENSE" target="_blank">MIT</a>
+<a href="https://github.com/Leticia-Eto/algoritmos-sintaxe-kotlin/blob/main/LICENSE" target="_blank">MIT</a>
